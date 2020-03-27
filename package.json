@@ -1,6 +1,6 @@
 {
-  "name": "orcrist-mobile",
-  "version": "1.0.3",
+  "name": "orcrist-share",
+  "version": "1.0.0",
   "description": "移动UI组件库",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Sundyfuther/orcrist-mobile.git"
+    "url": "git+https://github.com/Sundyfuther/orcrist-share.git"
   },
   "keywords": [
     "utils",
@@ -18,9 +18,9 @@
   "author": "cxj8976@hotmail.com",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Sundyfuther/orcrist-mobile/issues"
+    "url": "https://github.com/Sundyfuther/orcrist-share/issues"
   },
-  "homepage": "https://github.com/Sundyfuther/orcrist-mobile#readme",
+  "homepage": "https://github.com/Sundyfuther/orcrist-share#readme",
   "dependencies": {
     "orcrist-wechat": "^1.0.6"
   }
